@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "project_2"
+version = "1.0.0"
+description = "project_2"
+authors = ["Myronenko Bohdan"]
+
+[tool.poetry.dependencies]
+python = ">=3.9"
+
+[tool.poetry.dependencies]
+python = ">=3.9"
+numpy = ">=1.24.1"
+
+
+[build-system]
+build-backend = "poetry.core.masonry.api"
+requires = ["poetry-core>=1.0.0"]
+
+
