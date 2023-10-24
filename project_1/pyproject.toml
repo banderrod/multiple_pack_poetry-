@@ -3,6 +3,7 @@ name = "project_1"
 version = "1.0.0"
 description = "project_1"
 authors = ["Myronenko Bohdan"]
+packages = [{include = "project_1"}]
 
 [tool.poetry.dependencies]
 python = ">=3.9"
