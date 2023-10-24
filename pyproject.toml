@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "project_0"
+name = "multiple-pack-poetry-"
 version = "1.0.0"
 description = "project_0"
 authors = ["Myronenko Bohdan"]
