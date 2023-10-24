@@ -3,6 +3,7 @@ name = "multiple-pack-poetry-"
 version = "1.0.0"
 description = "project_0"
 authors = ["Myronenko Bohdan"]
+packages = [{include = "multiple-pack-poetry-"}]
 
 [tool.poetry.dependencies]
 python = ">=3.9"
